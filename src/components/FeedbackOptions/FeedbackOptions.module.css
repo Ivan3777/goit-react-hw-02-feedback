@@ -6,6 +6,7 @@
 align-items: center;
 background-color: #fff;
 border: 2px solid #000;
+border-radius: 4px;
 box-sizing: border-box;
 color: #000;
 cursor: pointer;
@@ -34,14 +35,14 @@ color: #171e29;
 }
 
 .feedbackBtn:hover {
-border-color: #06f;
-color: #06f;
+background-color:  #2196f3;
+color: white;
 fill: #06f;
 }
 
 .feedbackBtn:active {
-border-color: #06f;
-color: #06f;
+border-color:  #2196f3;
+color: white;
 fill: #06f;
 }
 
